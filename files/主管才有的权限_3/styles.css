@@ -1,0 +1,252 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:1020px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u920_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1000px;
+  height:119px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'MicrosoftYaHei-Bold', 'Microsoft YaHei Bold', 'Microsoft YaHei';
+  font-style:normal;
+}
+#u920 {
+  position:absolute;
+  left:20px;
+  top:80px;
+  width:1000px;
+  height:119px;
+  font-family:'MicrosoftYaHei-Bold', 'Microsoft YaHei Bold', 'Microsoft YaHei';
+  font-style:normal;
+}
+#u921 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1000px;
+  word-wrap:break-word;
+}
+#u922_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1010px;
+  height:574px;
+}
+#u922 {
+  position:absolute;
+  left:20px;
+  top:211px;
+  width:1000px;
+  height:564px;
+}
+#u923 {
+  position:absolute;
+  left:2px;
+  top:274px;
+  width:996px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u924_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:89px;
+  height:23px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'MicrosoftYaHei', 'Microsoft YaHei';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+}
+#u924 {
+  position:absolute;
+  left:426px;
+  top:800px;
+  width:89px;
+  height:23px;
+  font-family:'MicrosoftYaHei', 'Microsoft YaHei';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+}
+#u925 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:89px;
+  word-wrap:break-word;
+}
+#u926_img {
+  position:absolute;
+  left:-5px;
+  top:0px;
+  width:1010px;
+  height:553px;
+}
+#u926 {
+  position:absolute;
+  left:20px;
+  top:940px;
+  width:1000px;
+  height:543px;
+}
+#u927 {
+  position:absolute;
+  left:2px;
+  top:264px;
+  width:996px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u928_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1000px;
+  height:42px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'MicrosoftYaHei-Bold', 'Microsoft YaHei Bold', 'Microsoft YaHei';
+  font-style:normal;
+}
+#u928 {
+  position:absolute;
+  left:20px;
+  top:863px;
+  width:1000px;
+  height:42px;
+  font-family:'MicrosoftYaHei-Bold', 'Microsoft YaHei Bold', 'Microsoft YaHei';
+  font-style:normal;
+}
+#u929 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1000px;
+  word-wrap:break-word;
+}
+#u930_img {
+  position:absolute;
+  left:-5px;
+  top:0px;
+  width:754px;
+  height:572px;
+}
+#u930 {
+  position:absolute;
+  left:20px;
+  top:1569px;
+  width:744px;
+  height:562px;
+}
+#u931 {
+  position:absolute;
+  left:2px;
+  top:273px;
+  width:740px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u932_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:89px;
+  height:23px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'MicrosoftYaHei', 'Microsoft YaHei';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+}
+#u932 {
+  position:absolute;
+  left:414px;
+  top:1502px;
+  width:89px;
+  height:23px;
+  font-family:'MicrosoftYaHei', 'Microsoft YaHei';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+}
+#u933 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:89px;
+  word-wrap:break-word;
+}
+#u934_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:186px;
+  height:23px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'MicrosoftYaHei', 'Microsoft YaHei';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+}
+#u934 {
+  position:absolute;
+  left:265px;
+  top:2141px;
+  width:186px;
+  height:23px;
+  font-family:'MicrosoftYaHei', 'Microsoft YaHei';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+}
+#u935 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:186px;
+  word-wrap:break-word;
+}
